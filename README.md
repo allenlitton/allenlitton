@@ -50,7 +50,7 @@ I'm a passionate founder, regenerative designer, and developer who loves buildin
 
 
 - LinkedIn: (https://www.linkedin.com/in/allen-thomas-navasero-07532b100/)
-- Instagram: [@allenlitton]
+- Instagram: [@allenlitton](https://www.instagram.com/allenlitton)
 - Website: [allenlittonstudio.com](https://allenlittonstudio.com/)
 
 
