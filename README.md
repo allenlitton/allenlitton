@@ -14,6 +14,7 @@ I'm a passionate founder, regenerative designer, and developer who loves buildin
 
 
 - 🔭 I'm currently working on AI Prompt Engineering and thinking up new applications to develop.
+- 🌸 Building and shipping **Friend Flower** with Claude Code: [read the build log](https://github.com/allenlitton/friendflower-build-log)
 - 🌱 I'm currently learning new skills and expanding my knowledge
 - 👯 I'm looking to collaborate on open source projects around AI safety, and how we might be able to use AI to better protect and understand our natural environment (have you seen how AI is being used to understand Whale language 🐳!) and build a more beautiful world. 
 - 💬 Ask me about anything — I'm happy to help!
